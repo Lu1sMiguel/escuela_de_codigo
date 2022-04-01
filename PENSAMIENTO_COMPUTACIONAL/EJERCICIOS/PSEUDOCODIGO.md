@@ -11,7 +11,7 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 ![image](https://user-images.githubusercontent.com/102439815/161179075-74d4c9cf-02fb-4245-a9d1-ded6c095b30b.png)
 ![image](https://user-images.githubusercontent.com/102439815/161179175-2aa812d7-ae04-4092-b02f-7c555c449dd9.png)
 4. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
-![image](https://user-images.githubusercontent.com/102439815/161180634-7d439ded-6ce8-4590-bf28-2a16da4ae171.png)
+![image](https://user-images.githubusercontent.com/102439815/161181102-b4cd66c0-5451-48ee-87c7-8902c9679779.png)
 ![image](https://user-images.githubusercontent.com/102439815/161180725-ef0d082b-d1af-44a5-a0f4-c7a688a7b8c6.png)
 5. Un programa que pida una letra y detecte si es una vocal.
 6. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
