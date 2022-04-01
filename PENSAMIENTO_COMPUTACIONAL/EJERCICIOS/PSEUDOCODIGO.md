@@ -2,6 +2,8 @@
 Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
+![image](https://user-images.githubusercontent.com/102439815/161176156-95d6076f-4511-43d3-acda-ae06f48f8823.png)
+![image](https://user-images.githubusercontent.com/102439815/161176238-7e419cf7-8a04-4d9f-bc1b-4dc2bb193c47.png)
 2. Realiza un diagrama de flujo para obtener la suma de diez cantidades, que se soliciten al usuario, mediante la utilización de un ciclo “Mientras”. 
 3. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 4. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
