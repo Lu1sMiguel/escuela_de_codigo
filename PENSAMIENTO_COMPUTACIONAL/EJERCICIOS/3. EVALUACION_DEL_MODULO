@@ -29,7 +29,7 @@ Algoritmo promedioN
 		Leer calificacion
 		suma<-suma+calificacion
 		contador<-contador+1
-		variable<-suma/contador
+		promedio<-suma/contador
 	Fin Mientras
-	Escribir "el promedio de " contador " alumnos es " suma/contador
+	Escribir "el promedio de " contador " alumnos es " promedio
 FinAlgoritmo
